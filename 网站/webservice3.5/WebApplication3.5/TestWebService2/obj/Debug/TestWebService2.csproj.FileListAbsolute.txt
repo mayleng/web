@@ -1,0 +1,13 @@
+E:\test\webservice4.0\WebApplication4.0\TestWebService2\bin\TestWebService.dll
+E:\test\webservice4.0\WebApplication4.0\TestWebService2\bin\TestWebService.pdb
+E:\test\webservice4.0\WebApplication4.0\TestWebService2\obj\Debug\TestWebService.dll
+E:\test\webservice4.0\WebApplication4.0\TestWebService2\obj\Debug\TestWebService.pdb
+E:\test\webservice2.0\WebApplication2.0\TestWebService2\bin\TestWebService.dll
+E:\test\webservice2.0\WebApplication2.0\TestWebService2\bin\TestWebService.pdb
+E:\test\webservice2.0\WebApplication2.0\TestWebService2\obj\Debug\TestWebService2.csprojResolveAssemblyReference.cache
+E:\test\webservice2.0\WebApplication2.0\TestWebService2\obj\Debug\TestWebService.dll
+E:\test\webservice2.0\WebApplication2.0\TestWebService2\obj\Debug\TestWebService.pdb
+E:\test\webservice3.5\WebApplication3.5\TestWebService2\bin\TestWebService.dll
+E:\test\webservice3.5\WebApplication3.5\TestWebService2\bin\TestWebService.pdb
+E:\test\webservice3.5\WebApplication3.5\TestWebService2\obj\Debug\TestWebService.dll
+E:\test\webservice3.5\WebApplication3.5\TestWebService2\obj\Debug\TestWebService.pdb

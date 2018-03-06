@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/TestWebService.dll">
+      <publishTime>03/09/2016 11:17:21</publishTime>
+    </File>
+    <File Include="bin/TestWebService.pdb">
+      <publishTime>03/09/2016 11:17:21</publishTime>
+    </File>
+    <File Include="bin/TestWebService.XmlSerializers.dll">
+      <publishTime>03/04/2016 17:15:45</publishTime>
+    </File>
+    <File Include="Properties/DataSources/System.Data.DataSet.datasource">
+      <publishTime>03/08/2016 11:40:29</publishTime>
+    </File>
+    <File Include="Properties/Settings.settings">
+      <publishTime>03/08/2016 11:28:08</publishTime>
+    </File>
+    <File Include="Service References/WeatherServiceReference1/configuration.svcinfo">
+      <publishTime>03/08/2016 11:40:28</publishTime>
+    </File>
+    <File Include="Service References/WeatherServiceReference1/configuration91.svcinfo">
+      <publishTime>03/08/2016 11:40:28</publishTime>
+    </File>
+    <File Include="Service References/WeatherServiceReference1/Reference.svcmap">
+      <publishTime>03/08/2016 11:40:28</publishTime>
+    </File>
+    <File Include="Service References/WeatherServiceReference1/WeatherWebService.disco">
+      <publishTime>03/08/2016 11:40:28</publishTime>
+    </File>
+    <File Include="Service References/WeatherServiceReference1/WeatherWebService.wsdl">
+      <publishTime>03/08/2016 11:40:28</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/09/2016 11:22:05</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>03/09/2016 10:57:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

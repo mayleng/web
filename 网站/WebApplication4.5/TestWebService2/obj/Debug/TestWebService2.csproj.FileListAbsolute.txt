@@ -1,0 +1,5 @@
+E:\test\webservice4.5\WebApplication4.5\TestWebService2\bin\TestWebService.dll
+E:\test\webservice4.5\WebApplication4.5\TestWebService2\bin\TestWebService.pdb
+E:\test\webservice4.5\WebApplication4.5\TestWebService2\obj\Debug\TestWebService2.csprojResolveAssemblyReference.cache
+E:\test\webservice4.5\WebApplication4.5\TestWebService2\obj\Debug\TestWebService.dll
+E:\test\webservice4.5\WebApplication4.5\TestWebService2\obj\Debug\TestWebService.pdb

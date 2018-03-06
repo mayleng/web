@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\web\webservice3.0-4.5\webservice3.5\WebApplication3.5\WebApplication2\bin\WebApplication1.dll
+C:\Users\Administrator\Desktop\web\webservice3.0-4.5\webservice3.5\WebApplication3.5\WebApplication2\bin\WebApplication1.pdb
+C:\Users\Administrator\Desktop\web\webservice3.0-4.5\webservice3.5\WebApplication3.5\WebApplication2\obj\Release\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\web\webservice3.0-4.5\webservice3.5\WebApplication3.5\WebApplication2\obj\Release\WebApplication1.dll
+C:\Users\Administrator\Desktop\web\webservice3.0-4.5\webservice3.5\WebApplication3.5\WebApplication2\obj\Release\WebApplication1.pdb

@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\web\webservice4.0\webservice4.0\WebApplication4.0\WebApplication2\bin\WebApplication1.dll
+C:\Users\Administrator\Desktop\web\webservice4.0\webservice4.0\WebApplication4.0\WebApplication2\bin\WebApplication1.pdb
+C:\Users\Administrator\Desktop\web\webservice4.0\webservice4.0\WebApplication4.0\WebApplication2\obj\Release\WebApplication1.dll
+C:\Users\Administrator\Desktop\web\webservice4.0\webservice4.0\WebApplication4.0\WebApplication2\obj\Release\WebApplication1.pdb

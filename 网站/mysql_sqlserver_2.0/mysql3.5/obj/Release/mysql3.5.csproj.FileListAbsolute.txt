@@ -1,0 +1,7 @@
+C:\Users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\bin\mysql3.5.dll.config
+C:\Users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\bin\mysql3.5.dll
+C:\Users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\bin\mysql3.5.pdb
+C:\Users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\bin\MySql.Data.dll
+C:\Users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\obj\Release\mysql3.5.csprojResolveAssemblyReference.cache
+C:\Users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\obj\Release\mysql3.5.dll
+C:\Users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\obj\Release\mysql3.5.pdb

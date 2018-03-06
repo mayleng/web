@@ -1,0 +1,17 @@
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests\Bonree.Agent.Tests\bin\RemotingServer.exe.config
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests\Bonree.Agent.Tests\bin\RemotingServer.exe
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests\Bonree.Agent.Tests\bin\RemotingServer.pdb
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests\RemotingServer\obj\Debug\RemotingServer.exe
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests\RemotingServer\obj\Debug\RemotingServer.pdb
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests3.0\Bonree.Agent.Tests\bin\RemotingServer.exe.config
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests3.0\Bonree.Agent.Tests\bin\RemotingServer.exe
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests3.0\Bonree.Agent.Tests\bin\RemotingServer.pdb
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests3.0\RemotingServer\obj\Debug\RemotingServer.exe
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests3.0\RemotingServer\obj\Debug\RemotingServer.pdb
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests2.0\Bonree.Agent.Tests\bin\RemotingServer.exe.config
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests2.0\Bonree.Agent.Tests\bin\RemotingServer.exe
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests2.0\Bonree.Agent.Tests\bin\RemotingServer.pdb
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests2.0\RemotingServer\obj\Debug\RemotingServer.csprojResolveAssemblyReference.cache
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests2.0\RemotingServer\obj\Debug\RemotingServer.exe
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests2.0\RemotingServer\obj\Debug\RemotingServer.pdb
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests3.0\RemotingServer\obj\Debug\RemotingServer.csprojResolveAssemblyReference.cache

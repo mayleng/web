@@ -1,0 +1,10 @@
+E:\work\donet\trunk\test\ThrfitWebClient\ThrfitWebClient\ThrfitWebClient\bin\ThrfitWebClient.dll
+E:\work\donet\trunk\test\ThrfitWebClient\ThrfitWebClient\ThrfitWebClient\bin\ThrfitWebClient.pdb
+E:\work\donet\trunk\test\ThrfitWebClient\ThrfitWebClient\ThrfitWebClient\bin\Thrift.dll
+E:\work\donet\trunk\test\ThrfitWebClient\ThrfitWebClient\ThrfitWebClient\obj\Debug\ThrfitWebClient.dll
+E:\work\donet\trunk\test\ThrfitWebClient\ThrfitWebClient\ThrfitWebClient\obj\Debug\ThrfitWebClient.pdb
+E:\work\donet\trunk\test\ThrfitWebClient\ThrfitWebClient 4.0\ThrfitWebClient\bin\ThrfitWebClient.dll
+E:\work\donet\trunk\test\ThrfitWebClient\ThrfitWebClient 4.0\ThrfitWebClient\bin\ThrfitWebClient.pdb
+E:\work\donet\trunk\test\ThrfitWebClient\ThrfitWebClient 4.0\ThrfitWebClient\bin\Thrift.dll
+E:\work\donet\trunk\test\ThrfitWebClient\ThrfitWebClient 4.0\ThrfitWebClient\obj\Debug\ThrfitWebClient.dll
+E:\work\donet\trunk\test\ThrfitWebClient\ThrfitWebClient 4.0\ThrfitWebClient\obj\Debug\ThrfitWebClient.pdb

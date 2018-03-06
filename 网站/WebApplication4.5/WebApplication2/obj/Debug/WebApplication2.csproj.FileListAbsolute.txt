@@ -1,0 +1,4 @@
+E:\test\webservice4.5\WebApplication4.5\WebApplication2\bin\WebApplication1.dll
+E:\test\webservice4.5\WebApplication4.5\WebApplication2\bin\WebApplication1.pdb
+E:\test\webservice4.5\WebApplication4.5\WebApplication2\obj\Debug\WebApplication1.dll
+E:\test\webservice4.5\WebApplication4.5\WebApplication2\obj\Debug\WebApplication1.pdb

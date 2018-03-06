@@ -1,0 +1,16 @@
+E:\test\webservice4.0\WebApplication4.0\WebApplication2\bin\WebApplication1.dll
+E:\test\webservice4.0\WebApplication4.0\WebApplication2\bin\WebApplication1.pdb
+E:\test\webservice4.0\WebApplication4.0\WebApplication2\obj\Debug\WebApplication1.dll
+E:\test\webservice4.0\WebApplication4.0\WebApplication2\obj\Debug\WebApplication1.pdb
+E:\test\webservice2.0\WebApplication2.0\WebApplication2\bin\WebApplication1.dll
+E:\test\webservice2.0\WebApplication2.0\WebApplication2\bin\WebApplication1.pdb
+E:\test\webservice2.0\WebApplication2.0\WebApplication2\obj\Debug\WebApplication1.dll
+E:\test\webservice2.0\WebApplication2.0\WebApplication2\obj\Debug\WebApplication1.pdb
+E:\test\webservice2.0\WebApplication3.5\WebApplication2\bin\WebApplication1.dll
+E:\test\webservice2.0\WebApplication3.5\WebApplication2\bin\WebApplication1.pdb
+E:\test\webservice2.0\WebApplication3.5\WebApplication2\obj\Debug\WebApplication1.dll
+E:\test\webservice2.0\WebApplication3.5\WebApplication2\obj\Debug\WebApplication1.pdb
+E:\test\webservice3.5\WebApplication3.5\WebApplication2\bin\WebApplication1.dll
+E:\test\webservice3.5\WebApplication3.5\WebApplication2\bin\WebApplication1.pdb
+E:\test\webservice3.5\WebApplication3.5\WebApplication2\obj\Debug\WebApplication1.dll
+E:\test\webservice3.5\WebApplication3.5\WebApplication2\obj\Debug\WebApplication1.pdb

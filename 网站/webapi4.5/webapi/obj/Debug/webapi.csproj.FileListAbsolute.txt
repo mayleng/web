@@ -1,0 +1,17 @@
+C:\Users\bonree\Desktop\webapi\webapi\bin\webapi.dll.config
+C:\Users\bonree\Desktop\webapi\webapi\bin\webapi.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\webapi.pdb
+C:\Users\bonree\Desktop\webapi\webapi\bin\Newtonsoft.Json.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\System.Net.Http.Formatting.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\System.Web.Http.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\System.Web.Http.WebHost.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\Newtonsoft.Json.xml
+C:\Users\bonree\Desktop\webapi\webapi\bin\System.Net.Http.Formatting.xml
+C:\Users\bonree\Desktop\webapi\webapi\bin\System.Web.Http.xml
+C:\Users\bonree\Desktop\webapi\webapi\bin\System.Web.Http.WebHost.xml
+C:\Users\bonree\Desktop\webapi\webapi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\bonree\Desktop\webapi\webapi\obj\Debug\webapi.csprojResolveAssemblyReference.cache
+C:\Users\bonree\Desktop\webapi\webapi\obj\Debug\webapi.dll
+C:\Users\bonree\Desktop\webapi\webapi\obj\Debug\webapi.pdb

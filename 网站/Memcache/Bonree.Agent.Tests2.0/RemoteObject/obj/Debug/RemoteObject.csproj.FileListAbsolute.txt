@@ -1,0 +1,14 @@
+E:\work\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests\RemoteObject\bin\RemoteObject.dll
+E:\work\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests\RemoteObject\bin\RemoteObject.pdb
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests\Bonree.Agent.Tests\bin\RemoteObject.dll
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests\Bonree.Agent.Tests\bin\RemoteObject.pdb
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests\RemoteObject\obj\Debug\RemoteObject.dll
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests\RemoteObject\obj\Debug\RemoteObject.pdb
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests3.0\RemoteObject\obj\Debug\RemoteObject.dll
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests3.0\RemoteObject\obj\Debug\RemoteObject.pdb
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests3.0\Bonree.Agent.Tests\bin\RemoteObject.dll
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests3.0\Bonree.Agent.Tests\bin\RemoteObject.pdb
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests2.0\Bonree.Agent.Tests\bin\RemoteObject.dll
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests2.0\Bonree.Agent.Tests\bin\RemoteObject.pdb
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests2.0\RemoteObject\obj\Debug\RemoteObject.dll
+F:\donet\trunk\test\Bonree.Agent.Tests\Bonree.Agent.Tests2.0\RemoteObject\obj\Debug\RemoteObject.pdb

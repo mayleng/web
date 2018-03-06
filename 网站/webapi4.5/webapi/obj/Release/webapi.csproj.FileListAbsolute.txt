@@ -1,0 +1,34 @@
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\webapi.dll.config
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\webapi.dll
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\webapi.pdb
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\Newtonsoft.Json.dll
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\System.Net.Http.Formatting.dll
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\System.Web.Http.dll
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\System.Web.Http.WebHost.dll
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\Newtonsoft.Json.xml
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\System.Net.Http.Formatting.xml
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\System.Web.Http.xml
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\System.Web.Http.WebHost.xml
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\zh-Hans\System.Web.Http.resources.dll
+E:\donet\trunk\test\DBTest 3\webapi\webapi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\donet\trunk\test\DBTest 3\webapi\webapi\obj\Release\webapi.csprojResolveAssemblyReference.cache
+E:\donet\trunk\test\DBTest 3\webapi\webapi\obj\Release\webapi.dll
+E:\donet\trunk\test\DBTest 3\webapi\webapi\obj\Release\webapi.pdb
+C:\Users\bonree\Desktop\webapi\webapi\bin\webapi.dll.config
+C:\Users\bonree\Desktop\webapi\webapi\bin\webapi.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\webapi.pdb
+C:\Users\bonree\Desktop\webapi\webapi\bin\Newtonsoft.Json.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\System.Net.Http.Formatting.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\System.Web.Http.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\System.Web.Http.WebHost.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\Newtonsoft.Json.xml
+C:\Users\bonree\Desktop\webapi\webapi\bin\System.Net.Http.Formatting.xml
+C:\Users\bonree\Desktop\webapi\webapi\bin\System.Web.Http.xml
+C:\Users\bonree\Desktop\webapi\webapi\bin\System.Web.Http.WebHost.xml
+C:\Users\bonree\Desktop\webapi\webapi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\bonree\Desktop\webapi\webapi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\bonree\Desktop\webapi\webapi\obj\Release\webapi.csprojResolveAssemblyReference.cache
+C:\Users\bonree\Desktop\webapi\webapi\obj\Release\webapi.dll
+C:\Users\bonree\Desktop\webapi\webapi\obj\Release\webapi.pdb

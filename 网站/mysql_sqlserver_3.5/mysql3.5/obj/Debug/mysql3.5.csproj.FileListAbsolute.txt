@@ -1,0 +1,19 @@
+c:\users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\bin\mysql3.5.dll.config
+c:\users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\bin\mysql3.5.dll
+c:\users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\bin\mysql3.5.pdb
+c:\users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\bin\MySql.Data.dll
+c:\users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\obj\Debug\mysql3.5.csprojResolveAssemblyReference.cache
+c:\users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\obj\Debug\mysql3.5.dll
+c:\users\yucw\documents\visual studio 2013\Projects\mysql3.5\mysql3.5\obj\Debug\mysql3.5.pdb
+D:\test_website\a\mysql3.5\mysql3.5\bin\mysql3.5.dll
+D:\test_website\a\mysql3.5\mysql3.5\bin\mysql3.5.pdb
+D:\test_website\a\mysql3.5\mysql3.5\bin\MySql.Data.dll
+D:\test_website\a\mysql3.5\mysql3.5\obj\Debug\mysql3.5.csprojResolveAssemblyReference.cache
+D:\test_website\a\mysql3.5\mysql3.5\obj\Debug\mysql3.5.dll
+D:\test_website\a\mysql3.5\mysql3.5\obj\Debug\mysql3.5.pdb
+D:\test_website\mysql_sqlserver_3.5\mysql3.5\bin\mysql3.5.dll
+D:\test_website\mysql_sqlserver_3.5\mysql3.5\bin\mysql3.5.pdb
+D:\test_website\mysql_sqlserver_3.5\mysql3.5\bin\MySql.Data.dll
+D:\test_website\mysql_sqlserver_3.5\mysql3.5\obj\Debug\mysql3.5.dll
+D:\test_website\mysql_sqlserver_3.5\mysql3.5\obj\Debug\mysql3.5.pdb
+D:\test_website\mysql_sqlserver_3.5\mysql3.5\obj\Debug\mysql3.5.csprojResolveAssemblyReference.cache

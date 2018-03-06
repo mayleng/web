@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\web\webservice3.0-4.5\webservice3.5\WebApplication3.5\TestWebService2\bin\TestWebService.dll
+C:\Users\Administrator\Desktop\web\webservice3.0-4.5\webservice3.5\WebApplication3.5\TestWebService2\bin\TestWebService.XmlSerializers.dll
+C:\Users\Administrator\Desktop\web\webservice3.0-4.5\webservice3.5\WebApplication3.5\TestWebService2\bin\TestWebService.pdb
+C:\Users\Administrator\Desktop\web\webservice3.0-4.5\webservice3.5\WebApplication3.5\TestWebService2\obj\Release\TestWebService2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\web\webservice3.0-4.5\webservice3.5\WebApplication3.5\TestWebService2\obj\Release\TestWebService.dll
+C:\Users\Administrator\Desktop\web\webservice3.0-4.5\webservice3.5\WebApplication3.5\TestWebService2\obj\Release\TestWebService.pdb
+C:\Users\Administrator\Desktop\web\webservice3.0-4.5\webservice3.5\WebApplication3.5\TestWebService2\obj\Release\TestWebService.XmlSerializers.dll

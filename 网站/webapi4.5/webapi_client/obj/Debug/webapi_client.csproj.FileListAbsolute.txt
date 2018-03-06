@@ -1,0 +1,10 @@
+C:\Users\bonree\Desktop\webapi\webapi_client\obj\Debug\webapi_client.csprojResolveAssemblyReference.cache
+C:\Users\bonree\Desktop\webapi\webapi_client\bin\WebApplication1.dll.config
+C:\Users\bonree\Desktop\webapi\webapi_client\bin\WebApplication1.dll
+C:\Users\bonree\Desktop\webapi\webapi_client\bin\WebApplication1.pdb
+C:\Users\bonree\Desktop\webapi\webapi_client\bin\Newtonsoft.Json.dll
+C:\Users\bonree\Desktop\webapi\webapi_client\bin\System.Net.Http.Formatting.dll
+C:\Users\bonree\Desktop\webapi\webapi_client\bin\Newtonsoft.Json.xml
+C:\Users\bonree\Desktop\webapi\webapi_client\bin\System.Net.Http.Formatting.xml
+C:\Users\bonree\Desktop\webapi\webapi_client\obj\Debug\WebApplication1.dll
+C:\Users\bonree\Desktop\webapi\webapi_client\obj\Debug\WebApplication1.pdb
